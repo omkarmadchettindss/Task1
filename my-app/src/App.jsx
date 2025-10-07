@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <h1>My name is Omkar</h1>
+      <h1>Updated text on Main Branch</h1>
     </>
   );
 }
